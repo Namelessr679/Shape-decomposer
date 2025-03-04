@@ -2,9 +2,6 @@
  * A Frame that draws a polygon shape with a slider to determine what percent of
  * the shaper original points will be used in the drawn shape.
  * 
- * Don't change this code
- * 
- * @author Diane Mueller
  * 
  */
 
